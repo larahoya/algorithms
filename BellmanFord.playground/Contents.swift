@@ -1,5 +1,7 @@
 
 // BELLMAN FORD
+// Find the shortest paths from a single vertex to all other vertices in the graph.
+// O(n2)
 
 struct Edge {
     let from: Vertice
